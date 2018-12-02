@@ -15,7 +15,7 @@ class App extends Component {
   };
 
   componentDidMount() {
-    this.runSearch("Funny");
+    this.runSearch("Awesome");
   }
 
   runSearch = term => {
